@@ -9,6 +9,6 @@ Jogo de xadrez em formato console desenvolvido na linguagem Java. Feito com o au
 - Herança
 - Polimorfismo
 
-## 🖥️ Layouts da aplicação
+## 🖥️ Layout
 ![](/public/chess-start.PNG)
 ![](/public/checkmate.PNG)
