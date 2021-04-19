@@ -10,5 +10,4 @@ Jogo de xadrez em formato console desenvolvido na linguagem Java. Feito com o au
 - Polimorfismo
 
 ## 🖥️ Layout
-![](/public/chess-start.PNG)
-![](/public/checkmate.PNG)
+![](/public/chess-game.gif)
